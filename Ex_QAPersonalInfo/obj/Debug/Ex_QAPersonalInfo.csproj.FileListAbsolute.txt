@@ -1,0 +1,66 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\ApplicationInsights.config
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\csc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\vbc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\VBCSCompiler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Ex_QAPersonalInfo.dll.config
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Ex_QAPersonalInfo.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Ex_QAPersonalInfo.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.Web.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.WindowsServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.ApplicationInsights.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.Web.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.WindowsServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.ApplicationInsights.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\obj\Debug\Ex_QAPersonalInfo.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\obj\Debug\Ex_QAPersonalInfo.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Ex_QAPersonalInfo\Ex_QAPersonalInfo\obj\Debug\Ex_QAPersonalInfo.pdb
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\ApplicationInsights.config
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\csc.exe
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\vbc.exe
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Ex_QAPersonalInfo.dll.config
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Ex_QAPersonalInfo.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Ex_QAPersonalInfo.pdb
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.Web.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.Web.xml
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\obj\Debug\Ex_QAPersonalInfo.csprojResolveAssemblyReference.cache
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\obj\Debug\Ex_QAPersonalInfo.dll
+C:\Users\Sa\Documents\QA Consulting\Training\C#\Ex_QAPersonalInfo\Ex_QAPersonalInfo\obj\Debug\Ex_QAPersonalInfo.pdb
