@@ -87,7 +87,7 @@ namespace Ex_QAPersonalInfo
 
             cmdAddQualification.ExecuteNonQuery();
 
-            //Response.Redirect("")
+            Response.Redirect("Home.aspx");
 
         }
 
@@ -101,6 +101,8 @@ namespace Ex_QAPersonalInfo
             cmdAddEmail.CommandText = "INSERT INTO Emails(Email, QAID) VALUES('" + newEmail + "', '" + Session["pickedPersonID"] + "')";
 
             cmdAddEmail.ExecuteNonQuery();
+
+            Response.Redirect("Home.aspx");
         }
 
 

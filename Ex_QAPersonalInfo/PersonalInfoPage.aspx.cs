@@ -109,7 +109,7 @@ namespace Ex_QAPersonalInfo
 
             Response.Write("Qualifications: ");
             //Response.Write("Button ID='ButtonAddQuali' runat='server' Text='Add' />");
-            Response.Write("<input type='button' name='AddQualiBtn' value='Add'> ");
+            //Response.Write("<input type='button' name='AddQualiBtn' value='Add'> ");
             Response.Write("<br />");
 
             while (reader.Read())
@@ -142,7 +142,7 @@ namespace Ex_QAPersonalInfo
 
             Response.Write("Emails: ");
             //Response.Write("Button ID='ButtonAddEmail' runat='server' Text='Add' />");
-            Response.Write("<input type='button' name='AddEmailBtn' value='Add'> ");
+            //Response.Write("<input type='button' name='AddEmailBtn' value='Add'> ");
             Response.Write("<br />");
 
             while (reader.Read())
